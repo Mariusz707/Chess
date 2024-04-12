@@ -6,4 +6,4 @@ Po udanym ruchu turę zaczyna przeciwnik.
 
 Zasady takie jak w klasycznych szachach.
 
-![obraz](https://github.com/Mariusz707/Chess/assets/135693331/c286fbef-7283-44f5-b8f8-5b64554223ad)
+![obraz](https://github.com/Mariusz707/Chess/assets/135693331/09c9f813-9026-422d-9eb8-b224bfcf4229)
